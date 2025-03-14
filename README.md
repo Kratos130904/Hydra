@@ -1,1 +1,1 @@
-# Hydra
+# Repository of Project Hydra
